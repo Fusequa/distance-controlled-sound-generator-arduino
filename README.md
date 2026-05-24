@@ -8,11 +8,11 @@ A simple Arduino Uno mini-keyboard project that generates sounds using push butt
 
 ## Breadboard View
 
-![Breadboard View](images/breadboard.png)
+![Breadboard View](images/breadboard.jpg)
 
 ## Circuit Schematic
 
-![Circuit Schematic](images/schematic.png)
+![Circuit Schematic](images/schematic.jpg)
 
 ---
 
